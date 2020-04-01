@@ -16,7 +16,7 @@ Ten obrázek se stal jedním ze symbolů pandemie. „Je to poprvé, co jsme vid
 </figure>
 </wide>	
 
-Měření v Číně ukázala také značný pokles v naměřených koncentracích prachových částic - což podle [orientačního výpočtu](http://www.g-feed.com/2020/03/covid-19-reduces-economic-activity.html) jednoho ekonoma se Stanfordovy univerzity mohlo zachránit více životů, než kolik padlo za oběť samotné infekci. 
+Měření v Číně ukázala také značný pokles v koncentracích prachových částic - což podle [orientačního výpočtu](http://www.g-feed.com/2020/03/covid-19-reduces-economic-activity.html) jednoho ekonoma se Stanfordovy univerzity mohlo zachránit více životů, než kolik padlo za oběť samotné infekci. 
 
 Také emise oxidu uhličitého CO<sub>2</sub> v celé silně znečištěné Severočínské nížině po zastavení  továren a odklonění letadel klesly asi o čtvrtinu. Čína podle [odhadu vědců](https://www.marketwatch.com/story/guid/4406718a-6851-11ea-ac33-9c5786494c7c?siteid=rss&rss=1) vypustila nejznámějšího skleníkového plynu o 200 milionů tun méně, než kolik by ho vyprodukovala nebýt epidemie. Rozdíl je podobný, jako kdyby celá Česká republika na dva roky přestala spalovat uhlí i paliva vyrobená z ropy a stala se uhlíkově neutrální.
 
@@ -47,11 +47,16 @@ Na satelitních snímcích Evropy je patrný pokles koncentrací NO<sub>2</sub> 
 
 V době karantény se také na většině českého území nahromadilo výrazně nadprůměrné množství prachových částic. [Přinesl je vítr z pouště Karakum v Turkmenistánu](https://chmibrno.org/blog/2020/03/28/zhorsena-kvalita-ovzdusi-na-uzemi-cr/).
 
-
-## CO2
+## Budou změny dlouhodobé?
 Podobně jako při poslední velké krizi světového hospodářství před dvanácti lety se dá očekávat znatelné snížení celosvětových emisí skleníkových plynů vznikajících při spalování uhlí a dalších fosilních paliv - přispěje k němu hlavně očekávaný pokles průmyslové výroby a propad letecké dopravy, který je už teď bezprecedentní.
 
+“Omezení cestování na dlouhé vzdálenosti je to, co způsobuje obrovský rozdíl. Každý neuskutečněný let je pro klima velkou výhrou,” řekla serveru iROZHLAS.cz Kimberly Nicholas, která přednáší o změně klimatu na univerzitě v Lundu ve Švédsku.
 
+<!--[[ZPRAVY_ARTICLE:8166183:2:1]]-->
+
+Ještě větší význam ale podle ní mohou mít dlouhodobé změny v lidském chování: “Lidé momentálně hledají efektivní způsoby, jak pracovat přes počítač a digitálně spolupracovat. To může vést k velkému poklesu emisí. Podle [studie, kterou vedl Seth Wynes](https://iopscience.iop.org/article/10.1088/1748-9326/aae5d7/pdf), největší pokles emisí způsobený lidským chováním byl, když lidé začali pracovat z domu místo toho, aby do práce dojížděli autem,” řekla.
+
+Jiné vědecké studie ale ukazují, že je to složitější: emise ušetřené neuskutečněnou cestou do práce může převážit vyšší spotřeba elektřiny a především vytápění tolika „domácích kanceláří“. 
 
 Světová meteorologická organizace - [pandemie koronaviru nemá být náhradou za klimatickou akci](https://public.wmo.int/en/media/news/economic-slowdown-result-of-covid-no-substitute-climate-action?fbclid=IwAR0OpwZDQPzUvvsuoO_wtZxf7yUSU8s9iEcENohhC3yzC3YgMgIk1ZHfmSA) na svém webu uvádí, že je však příliš brzy na posouzení dopadů epidemie na koncentrace skleníkových plynů ve vzduchu na celé planetě, protože podle hlavních pozorovacích stanic jsou tyto hladiny celkově vyšší než byly v loňském roce.
 
@@ -73,11 +78,9 @@ Vědci ale mají obavy o budoucí vývoj. Vlády se totiž budou snažit zachrá
 I přesto, že vliv koronaviru je podle některých expertů jen krátkodobý, tak je až překvapivě velký a může vést k celkové změně chování lidí. 
 
 
-O nepřímém a dlouhodobém vlivu na životní prostředí mluví Kimberly Nicholas z centra pro studia udržitelnosti univerzity v Lundu ve Švédsku. Podle Nicholas pokaždé, když se rozhodneme neletět letadlem, nejet autem a nejíst stravu ze zvířat, přispějeme k zlepšování klimatu. Většina lidí, kteří se snaží vyhnout koronaviru, dělají alespoň 2 ze tří těchto věcí. “Omezení cestování na dlouhé vzdálenosti je to, co dělá obrovský rozdíl. Každý neuskutečněný let je pro klima velkou výhrou,” upozorňuje Nicholas.
 
-Overall we see the need to transform our economy to a system that provides human well-being while protecting nature and the climate we depend on. Business as usual is set on a collision course for climate breakdown. We know we have to completely eliminate carbon pollution to stabilize the climate, and transition quickly away from fossil fuels like coal, oil, and gas. It’s important that policies undertaken during the coronavirus crisis support workers to transition to clean energy jobs compatible with a safe climate
 
-Jiní experti tvrdí, že koronavirus může přinést systémové změny, které budou mít dlouhodobý dopad. Například podle Kimberly Nicholas z centra pro studia udržitelnosti univerzity v Lundu ve Švédsku může koronavirus zapříčinit změnu lidského chování. “Lidé momentálně hledají efektivní způsoby, jak pracovat přes počítač a digitálně spolupracovat. To může vést k velkému poklesu emisí. Podle studie, kterou vedl Seth Wynes, největší pokles emisí způsobený lidským chováním byl, když lidé začali pracovat z domu místo toho, aby to práce dojížděli autem,” řekla pro server iROZHLAS.
+
 
 Podobně situaci vidí i Jan Freidinger z Greenpeace. “Koronavirus může urychlit řadu systémových změn v ekonomice a společnosti, které lidstvo nasměrují a udržitelnou trajektorii a fungování, či přesněji spotřebu, která není na úkor budoucích generací. Aktuální pandemie má nejen devastující dopady na ekonomiku a zdravotní systémy, ale zároveň nám ukazuje, že je možné zpomalit, přehodnotit naše priority a aktivity, které naplňují naše životy,” řekl.
 
