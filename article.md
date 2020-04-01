@@ -56,7 +56,9 @@ Podobně jako při poslední velké krizi světového hospodářství před dvan
 
 Ještě větší význam ale podle ní mohou mít dlouhodobé změny v lidském chování: “Lidé momentálně hledají efektivní způsoby, jak pracovat přes počítač a digitálně spolupracovat. To může vést k velkému poklesu emisí. Podle [studie, kterou vedl Seth Wynes](https://iopscience.iop.org/article/10.1088/1748-9326/aae5d7/pdf), největší pokles emisí způsobený lidským chováním byl, když lidé začali pracovat z domu místo toho, aby do práce dojížděli autem,” řekla.
 
-Jiné vědecké studie ale ukazují, že je to složitější: emise ušetřené neuskutečněnou cestou do práce může převážit vyšší spotřeba elektřiny a především vytápění tolika „domácích kanceláří“. 
+Jiné vědecké studie ale ukazují, že je to složitější: emise ušetřené neuskutečněnou cestou do práce může převážit vyšší spotřeba elektřiny, vytápění tolika „domácích kanceláří“ ale třeba i vyšší míra nakupování přes internet s obvykle automobilovou dopravou jednotlivých objednaných balíčků. [Záleží na tom, jak propracovanou mají jednotliví prodejci logistiku](https://pubs.acs.org/doi/abs/10.1021/acs.est.9b06252), od vzdálenosti skladů až po IT systémy pro optimalizaci dopravy.
+
+„Výhody práce z domova zkoumala řada studií a výsledky lze shrnout: záleží na okolnostech. Na počasí, na zeměpisné poloze, na životním stylu rodin... Ekonomika a produkce skleníkových plynů, je tak složitě provázaná, že jedna malá změna může významně ovlivnit všechno ostatní – jsou to komplexní systémy plně rychlých a složitých interakcí,“ [varoval před ukvapenými závěry](Christopher Jones) expert na klimatické politiky Christopher Jones z univerzity v Berkeley.
 
 Světová meteorologická organizace - [pandemie koronaviru nemá být náhradou za klimatickou akci](https://public.wmo.int/en/media/news/economic-slowdown-result-of-covid-no-substitute-climate-action?fbclid=IwAR0OpwZDQPzUvvsuoO_wtZxf7yUSU8s9iEcENohhC3yzC3YgMgIk1ZHfmSA) na svém webu uvádí, že je však příliš brzy na posouzení dopadů epidemie na koncentrace skleníkových plynů ve vzduchu na celé planetě, protože podle hlavních pozorovacích stanic jsou tyto hladiny celkově vyšší než byly v loňském roce.
 
