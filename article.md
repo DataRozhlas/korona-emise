@@ -11,7 +11,7 @@ Ten obrázek se stal jedním ze symbolů pandemie. „Je to poprvé, co jsme vid
 
 <wide>
 <figure>
-<img src="media/cina.png">
+<img src="https://data.irozhlas.cz/korona-emise/media/cina.png">
 <figcaption>Foto: NASA</figcaption>
 </figure>
 </wide>	
@@ -38,7 +38,7 @@ Zatímco v Číně je největším zdrojem emisí oxidu dusičitého průmysl, k
 
 <wide>
 <figure>
-<img src="media/evropa.png">
+<img src="https://data.irozhlas.cz/korona-emise/media/evropa.png">
 <figcaption>Foto: Sentinel-5P, Copernicus, chmibrno.org</figcaption>
 </figure>
 </wide>
