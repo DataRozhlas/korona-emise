@@ -58,33 +58,8 @@ Ještě větší význam ale podle ní mohou mít dlouhodobé změny v lidském 
 
 Jiné vědecké studie ale ukazují, že je to složitější: emise ušetřené neuskutečněnou cestou do práce může převážit vyšší spotřeba elektřiny, vytápění tolika „domácích kanceláří“ ale třeba i vyšší míra nakupování přes internet s obvykle automobilovou dopravou jednotlivých objednaných balíčků. [Záleží na tom, jak propracovanou mají jednotliví prodejci logistiku](https://pubs.acs.org/doi/abs/10.1021/acs.est.9b06252), od vzdálenosti skladů až po IT systémy pro optimalizaci dopravy.
 
-„Výhody práce z domova zkoumala řada studií a výsledky lze shrnout: záleží na okolnostech. Na počasí, na zeměpisné poloze, na životním stylu rodin... Ekonomika a produkce skleníkových plynů, je tak složitě provázaná, že jedna malá změna může významně ovlivnit všechno ostatní – jsou to komplexní systémy plně rychlých a složitých interakcí,“ [varoval před ukvapenými závěry](Christopher Jones) expert na klimatické politiky Christopher Jones z univerzity v Berkeley.
+„Výhody práce z domova zkoumala řada studií a výsledky lze shrnout: záleží na okolnostech. Na počasí, na zeměpisné poloze, na životním stylu rodin... Ekonomika a produkce skleníkových plynů, je tak složitě provázaná, že jedna malá změna může významně ovlivnit všechno ostatní – jsou to komplexní systémy plně rychlých a složitých interakcí,“ [varoval před ukvapenými závěry](https://www.scientificamerican.com/article/how-the-coronavirus-pandemic-is-affecting-co2-emissions/) expert na klimatické politiky Christopher Jones z univerzity v Berkeley.
 
-Světová meteorologická organizace - [pandemie koronaviru nemá být náhradou za klimatickou akci](https://public.wmo.int/en/media/news/economic-slowdown-result-of-covid-no-substitute-climate-action?fbclid=IwAR0OpwZDQPzUvvsuoO_wtZxf7yUSU8s9iEcENohhC3yzC3YgMgIk1ZHfmSA) na svém webu uvádí, že je však příliš brzy na posouzení dopadů epidemie na koncentrace skleníkových plynů ve vzduchu na celé planetě, protože podle hlavních pozorovacích stanic jsou tyto hladiny celkově vyšší než byly v loňském roce.
+Čeští odborníci oslovení serverem iROZHLAS.cz se shodli, že bez hlubokých a dlouhodobých zmměn ve fungování světové ekonomiky, se emise po skončení pandemie vrátí na původní úroveň: “Když se všechno zastaví, samozřejmě na chvíli ubyde také smogu. Stalo se to v Číně, právě se to asi děje u nás a bezesporu se to stane také v Americe i jinde. Ale to všechno je pouze dočasný výkyv. Až krize pomine a život se vrátí k normálu, znečištění opět stoupne,” řekl Vojtěch Kotecký z think tanku Glopolis, který se zabývá udržitelnou ekonomimku.
 
-
-
-
-
-"Snížení znečištění a zlepšení kvality ovzduší by nemělo bagatelizovat obrovské globální zdravotní problémy a ztráty na životech v důsledku pandemie Covid-19," řekl generální tajemník WMO Petteri Taalas. "Je ale čas zvážit, jak využít opatření na podporu ekonomiky k podpoře dlouhodobého přechodu k šetrnějším praktikám k životnímu prostředí a klimatu.” Podle Taalase by svět měl být stejně odhodlaný a jednotný v boji proti klimatickým problémům, jako je v boji proti pandemii Covid-19. 
-
-
-Klimeš - EU?
-
-“Když se všechno zastaví, samozřejmě na chvíli ubyde také smogu. Stalo se to v Číně, právě se to asi děje u nás a bezesporu se to stane také v Americe i jinde. Ale to všechno je pouze dočasný výkyv. Až krize pomine a život se vrátí k normálu, znečištění opět stoupne,” řekl pro server iROZHLAS expert na životní prostředí z think-tanku Glopolis Vojtěch Kotecký.
-
-Vědci ale mají obavy o budoucí vývoj. Vlády se totiž budou snažit zachránit ekonomiku a pracovní místa, řešení environmentálních problémů proto nejspíše odsunou na druhou kolej.  „Nezbytné vládní intervence, které znovu nastartují ekonomiku, mohou vést k situaci, kdy bude znečištění ještě vyšší, než bylo před pandemií koronaviru,“ řekl pro Český rozhlas Plus Viktor Třebický, odborník na výpočet uhlíkové stopy v organizaci CI2. 
-
-## dlouhodobé změny
-
-I přesto, že vliv koronaviru je podle některých expertů jen krátkodobý, tak je až překvapivě velký a může vést k celkové změně chování lidí. 
-
-
-
-
-
-
-Podobně situaci vidí i Jan Freidinger z Greenpeace. “Koronavirus může urychlit řadu systémových změn v ekonomice a společnosti, které lidstvo nasměrují a udržitelnou trajektorii a fungování, či přesněji spotřebu, která není na úkor budoucích generací. Aktuální pandemie má nejen devastující dopady na ekonomiku a zdravotní systémy, ale zároveň nám ukazuje, že je možné zpomalit, přehodnotit naše priority a aktivity, které naplňují naše životy,” řekl.
-
-Kimberly Nichols dále upozorňuje i na, že každý neuskutečněný let je pro klima velkou výhrou a právě leteckou dopravu značně současná pandemie ovlivnila. “Cestovatelské návyky, které si lidé přisvojí v problematické době se s větší pravděpodobností udrží, proto můžeme v budoucnosti vidět nové způsoby spolupráce s méně fyzickým cestováním. Omezení cestování na dlouhé vzdálenosti je to, co bude může mít budoucnu na klima velký vliv,” řekla.
-
+„Nezbytné vládní intervence, které znovu nastartují ekonomiku, mohou vést k situaci, kdy bude znečištění ještě vyšší, než bylo před pandemií koronaviru,“ přidal se Viktor Třebický, odborník na výpočet uhlíkové stopy z neziskové organizace CI2.
