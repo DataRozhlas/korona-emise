@@ -1,5 +1,5 @@
-title: "Čistší vzduch kvůli koronaviru?"
-perex: "Útlum v letecké i automobilové dopravě přináší čistší vzduch i nižší produkci skleníkových plynů. Jenomže vytápění a zvýšená spotřeba elektřiny pro miliony lidí, kteří místo cestování do škol a úřadů sedí doma, může rozdíl vyrovnat."
+title: "Čistší vzduch kvůli koronaviru? Záleží na tom, zda budou změny v našem chování dlouhodobé"
+perex: "Útlum v průmyslu, v letecké i automobilové dopravě přináší čistší vzduch i nižší produkci skleníkových plynů. Jenomže vytápění a zvýšená spotřeba elektřiny pro miliony lidí, kteří místo cestování do škol a úřadů sedí doma, může rozdíl vyrovnat."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/images/03785015.jpeg?itok=nRjjkIoz
 coverimg_note: "Smog v Parudbicích | Foto Honza Ptáček"
 styles: []
